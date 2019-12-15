@@ -30,7 +30,7 @@ Link: https://github.com/csctmaciura1/Week-9/blob/master/BlueSQLI.gif
 ## Green
 
 Vulnerability #1: XSS
-Link: 
+Link: https://github.com/csctmaciura1/Week-9/blob/master/Final%20Cross%20Site%20Scripting.gif 
 
 Vulnerability #2: __________________
 
@@ -44,5 +44,7 @@ Vulnerability #2: __________________
 
 
 ## Notes
+
+There is more than two in blue because this way done across multiple days.
 
 Describe any challenges encountered while doing the work
