@@ -21,7 +21,7 @@ Vulnerability #1: CSRF
 Link: https://github.com/csctmaciura1/Week-9/blob/master/JimmelBlue.gif
 
 Vulnerability #2: Username Enumeration
-Link: 
+Link: https://github.com/csctmaciura1/Week-9/blob/master/UsernameEnumeration.gif
 
 
 ## Green
