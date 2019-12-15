@@ -41,6 +41,7 @@ Vulnerability #1:IDOR
 Link: https://github.com/csctmaciura1/Week-9/blob/master/Testy10%20IDOR.gif
 
 Vulnerability #2: Session HiJacking
+Link: https://github.com/csctmaciura1/Week-9/blob/master/SessionID%20Jacking.gif
 
 
 ## Notes
