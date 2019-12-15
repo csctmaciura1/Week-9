@@ -17,7 +17,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: Username Enumeration
+Vulnerability #1: UCSRF
 Link: https://github.com/csctmaciura1/Week-9/blob/master/JimmelBlue.gif
 
 Vulnerability #2: __________________
