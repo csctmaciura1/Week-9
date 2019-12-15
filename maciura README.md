@@ -29,7 +29,8 @@ Link: https://github.com/csctmaciura1/Week-9/blob/master/BlueSQLI.gif
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS
+Link: 
 
 Vulnerability #2: __________________
 
