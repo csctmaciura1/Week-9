@@ -1,7 +1,7 @@
 # Week-9
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -40,7 +40,7 @@ Vulnerability #2: __________________
 Vulnerability #1:IDOR
 Link: https://github.com/csctmaciura1/Week-9/blob/master/Testy10%20IDOR.gif
 
-Vulnerability #2: __________________
+Vulnerability #2: Session HiJacking
 
 
 ## Notes
