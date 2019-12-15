@@ -34,7 +34,7 @@ Vulnerability #2: __________________
 ## Red
 
 Vulnerability #1:IDOR
-Link:
+Link: 
 
 Vulnerability #2: __________________
 
